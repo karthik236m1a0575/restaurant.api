@@ -1,0 +1,10 @@
+body{ font-family: Arial, sans-serif; margin:0; padding:0; background:#f7f7f7}
+header{ background:#333; color:#fff; padding:12px 18px}
+.app main{ display:flex; gap:20px; padding:18px }
+.menu-list{ flex:2; background:#fff; padding:12px; border-radius:8px }
+.cart{ flex:1; background:#fff; padding:12px; border-radius:8px }
+.menu-item{ border-bottom:1px solid #eee; padding:8px 0 }
+input{ display:block; width:100%; margin:8px 0; padding:8px }
+button{ padding:8px 10px; cursor:pointer }
+.orders{ margin-top:20px }
+.order-card{ background:#fff; padding:8px; margin:8px 0; border-radius:6px }

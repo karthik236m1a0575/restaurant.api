@@ -1,0 +1,1 @@
+Front-end React app for Restaurant Menu. Set REACT_APP_API_URL in .env to backend API base URL.
